@@ -17,3 +17,8 @@
     <img width="96" height="64" alt="ArgoCD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" />&nbsp;
     <img width="96" height="64" alt="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" />
 </p>
+
+<hr/>
+<p align="center">
+    All projects adopt the Contributor Covenant <a href="https://github.com/pitz-tech/.github/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>.
+</p>
